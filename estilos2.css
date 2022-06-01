@@ -1,0 +1,25 @@
+body {/*background: green; */background: url(../FONDO.jpg);
+color: black; font-size: 20px;}
+H2(COlor: blue}
+nav a {color: black;
+background-color:red;
+text-decoration: none;
+padding: 10px 50px;}
+ul{ list-style: none;
+margin: 0;
+padding: 0;}
+li {display: inline-block;}
+nav a:hover {background-color: aquamarine;}
+aside (width:400px;
+background: rgba(245,249,32,.5);
+position:relative;
+Left:600px;
+top:-300;
+margin: 10px 50px;
+padding: 70px;
+border: 10px double #345bal}
+.main(width: 400px;
+background: rgba (75,155,184,.5);
+margin: 10px 50px;
+padding: 20px;
+border: 10px double #cd853f}
